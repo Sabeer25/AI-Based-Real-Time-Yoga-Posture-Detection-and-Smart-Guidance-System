@@ -25,3 +25,5 @@ venv.bak/
 # Temporary / Log files
 *.log
 scratch/
+screenshots/
+
